@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/server@42" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/server@42?logo=twitter&style=for-the-badge" alt="Twitter" />
+  <a href="https://www.instagram.com/koder_dev1221/" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20%40koder__dev1221-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
