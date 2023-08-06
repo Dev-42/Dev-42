@@ -24,6 +24,10 @@
   <a href="https://dev.to/@dev42">Dev.to</a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dev-42&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ### GitHub Stats
 
 <p align="center">
