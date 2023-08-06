@@ -1,3 +1,5 @@
+<!-- Add a banner or header image here -->
+
 <h1 align="center">Hi there! 👋 I'm Dev Bhattacharya</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
@@ -15,7 +17,7 @@
 
 <p align="center">🌱 I’m currently learning React and Firebase</p>
 
-<p align="center">💬 Ask me about Html, Css, JavaScript, React, and Firebase</p>
+<p align="center">💬 Ask me about Html, CSS, JavaScript, React, and Firebase</p>
 
 <p align="center">
   <a href="https://www.instagram.com/koder_dev1221/">Instagram</a> •
@@ -27,6 +29,24 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dev-42&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+---
+
+### Tech Stack
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="60" height="60" />
+  <!-- Add more icons as needed -->
+</p>
+
+---
 
 ### GitHub Stats
 
@@ -42,9 +62,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-42" alt="GitHub Streak" />
 </p>
 
+---
+
 ### Let's Connect
 
-I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at your.email@example.com or connect with me on LinkedIn: [LinkedIn Profile](https://linkedin.com/in/dev-bhattacharya).
+I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at devbhattacharya42@gmail.com or connect with me on LinkedIn: [LinkedIn Profile](https://linkedin.com/in/dev-bhattacharya).
 
 ### 🏆 Trophies
 
