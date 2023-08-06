@@ -21,8 +21,8 @@
 
 <p align="center">
   <a href="https://www.instagram.com/koder_dev1221/">Instagram</a> •
-  <a href="https://twitter.com/server@42">Twitter</a> •
-  <a href="https://linkedin.com/in/dev-bhattacharya">LinkedIn</a> •
+  <a href="https://twitter.com/42_server">Twitter</a> •
+  <a href="https://www.linkedin.com/in/dev-bhattacharya-6130121b7/">LinkedIn</a> •
   <a href="https://dev.to/@dev42">Dev.to</a>
 </p>
 
@@ -66,7 +66,7 @@
 
 ### Let's Connect
 
-I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at devbhattacharya42@gmail.com or connect with me on LinkedIn: [LinkedIn Profile](https://linkedin.com/in/dev-bhattacharya).
+I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at devbhattacharya42@gmail.com or connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/dev-bhattacharya-6130121b7/).
 
 ### 🏆 Trophies
 
