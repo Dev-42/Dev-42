@@ -1,6 +1,6 @@
 <!-- Add a banner or header image here -->
 
-<h1 align="center">Hi there! 👋 I'm Dev Bhattacharya</h1>
+<h1 align="center">Hi there! 👋 I'm Dev</h1>
 <h3 align="center">🚀 Welcome to Tomorrow's Digital World! 🌟</h3>
 <h3 align="center">I'm a highly Passionate Full Stack Developer on a mission to craft innovative solutions and create a brighter future through technology.</h3>
 <h3 align="center">Together, let's build awe-inspiring digital experiences that shape the world of tomorrow! 💻🌍</h3>
