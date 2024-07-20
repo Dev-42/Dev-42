@@ -19,7 +19,7 @@
 
 <p align="center">🌱 I’m currently learning React and Firebase</p>
 
-<p align="center">💬 Ask me about Html, CSS, JavaScript, React, and Firebase</p>
+<p align="center">💬 Ask me about HTML, CSS, Bootstrap, JavaScript, TypeScript, React, Redux, MaterialUI, NodeJs, ExpressJs, MongoDB, Mongoose</p>
 
 <p align="center">
   <a href="https://www.instagram.com/koder_dev1221/">Instagram</a> •
@@ -44,6 +44,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original-wordmark.svg" alt="TypeScript" width="60" height="60" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="60" height="60" />
   <!-- Add more icons as needed -->
 </p>
